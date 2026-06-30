@@ -6,3 +6,6 @@ Em um cenário de segregação e barreiras de gênero, Katherine rompeu limites 
 
 ---
 
+# Integrantes da squad
+
+![Imagem com as integrantes da squad](assets/readme_squad_katherine_johnson.png)
