@@ -10,14 +10,12 @@ Em um cenário de segregação e barreiras de gênero, Katherine rompeu limites 
 
 ![Imagem com as integrantes da squad](assets/readme_squad_katherine_johnson.png)
 
----
+# Networking
 
-# Lista de Profissionais - Networking
-
-| Foto | Nome | LinkedIn |
-|:---|:---|:---|
-| ![Anelise](#) | Anelise Lando | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](URL_DO_SEU_LINKEDIN) |
-| ![Juliana](#) | Juliana Gonçalves | [LinkedIn](#) |
-| ![Mariana](#) | Mariana Marques | [LinkedIn](#) |
-| ![Marília](#) | Marília Marques | [LinkedIn](#) |
-| ![Tamires](#) | Tamires Cândido | [LinkedIn](#) |
+| Foto          | Nome              | LinkedIn                    | GitHub                    |
+|:--------------|:------------------|:----------------------------|:--------------------------|
+| ![Anelise](#) | Anelise Lando     | [🔗 Conectar](URL_DO_PERFIL) | [💻 GitHub](URL_DO_GITHUB) |
+| ![Juliana](#) | Juliana Gonçalves | [🔗 Conectar](URL_DO_PERFIL) | [💻 GitHub](URL_DO_GITHUB) |
+| ![Mariana](#) | Mariana Marques   | [🔗 Conectar](URL_DO_PERFIL) | [💻 GitHub](URL_DO_GITHUB) |
+| ![Marília](#) | Marília Marques   | [🔗 Conectar](URL_DO_PERFIL) | [💻 GitHub](URL_DO_GITHUB) |
+| ![Tamires](#) | Tamires Cândido   | [🔗 Conectar](URL_DO_PERFIL) | [💻 GitHub](URL_DO_GITHUB) |
